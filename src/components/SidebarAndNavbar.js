@@ -72,7 +72,7 @@ const SidebarAndNavbar = () => {
             <MenuIcon />
           </IconButton>
           <Typography variant="h6" noWrap component="div">
-            Vuexy Clone
+            Task Management
           </Typography>
         </Toolbar>
       </AppBar>
