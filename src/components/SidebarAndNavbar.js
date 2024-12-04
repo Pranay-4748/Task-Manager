@@ -93,7 +93,7 @@ const SidebarAndNavbar = () => {
       >
         <Toolbar />
         <List>
-          {['Dashboards', 'Analytics', 'CRM', 'eCommerce', 'Logistics', 'Academy'].map((text, index) => (
+          {['Dashboards'].map((text, index) => (
             <ListItem button key={text}>
               <ListItemText primary={text} />
             </ListItem>
